@@ -2,7 +2,7 @@
 
 > One interface for loads across DAT, Truckstop, and Amazon Relay — built from firsthand experience dispatching at three trucking companies and actively used in production operations.
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](docs/Screenshot.png)
 
 > **Production use:** This software is actively used by trucking companies I have worked with directly. The architecture and schema design reflect real operational workflows, not hypothetical ones.
 
